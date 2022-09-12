@@ -1,0 +1,149 @@
+body{
+background-image: url('retro-living-room-interior-design.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  margin: 10px;
+  margin-left: 50px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.nav-items{
+    display: flex;
+    margin-left: 400px;
+    padding-top: 20px;
+}
+
+.nav-item{
+    color: white;
+    padding-right: 60px;
+    font-size: 18px;
+}
+.logo-top{
+    float: left;
+    color: white;
+    width: 20px;
+    font-size: 35px;
+}
+
+.call-us{
+    color: white;
+    font-size: 18px;
+    width: 180px;
+    float: right;
+    margin-right: 70px;
+    margin-top: -95px;
+}
+
+.menu-line{
+    margin-left: 340px;
+    margin-top: -65px;
+    width: 70%;
+}
+
+.phone{
+   margin-left: 800px;
+   margin-top: -90px;
+}
+
+.left-section{
+    font-size: 27px;
+    color: white;
+    width: 600px;
+    margin-top: 150px;
+    margin-left: 100px;
+}
+
+.learn-more-btn{
+    background: transparent;
+    color: white;
+    border-radius: 50px;
+    height: 60px;
+    font-size: 22px;
+    width: 250px;
+    border-color: white;
+    font-weight: 600;
+}
+
+.rectangle {
+    height: 180px;
+    width: 250px;
+    background-color: white;
+    opacity: 0.2;
+    margin-left: 900px;
+    margin-top: -300px;
+  }
+
+  .rectangle-1 {
+    height: 190px;
+    width: 250px;
+    background-color: white;
+    opacity: 0.2;
+    margin-left: 600px;
+    margin-top: 100px;
+  }
+
+  .puzzle-text{
+    color: white;
+    margin-left: 920px;
+    position: absolute;
+    width: 200px;
+    margin-top: 100px;
+    font-size: 18px;
+  }
+
+  .puzzle{
+    margin-left: 930px;
+    position: absolute;
+  }
+
+  .bulb{
+    margin-left: 490px;
+    position: absolute;
+    margin-top: -190px;
+  }
+
+  .bulb-text{
+    color: white;
+    margin-left: 620px;
+    position: absolute;
+    width: 200px;
+    margin-top: -90px; 
+    font-size: 18px;
+  }
+
+  .dot{
+    height: 17px;
+    width: 17px;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 950px;
+    margin-top: -100px;
+    position: absolute;
+  }
+
+  .dot-2{
+    height: 17px;
+    width: 17px;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 1000px;
+    margin-top: 250px;
+    position: absolute;
+  }
+
+  .dot-line{
+      width: 8%;
+      margin-left: 850px;
+      margin-top: -93px;
+  }
+
+  .dot-2-line{
+    border-left: 1px solid white;
+    height: 80px;
+    color: white;
+    position: absolute;
+    margin-left: 1008px;    
+}
